@@ -1,0 +1,12 @@
+.capitalize {
+  text-transform: capitalize;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.cartPanel .list-group {
+  max-height: 400px;
+  overflow-y: auto;
+}
